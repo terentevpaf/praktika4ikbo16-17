@@ -1,4 +1,5 @@
 # praktika4ikbo16-17
+# Терентьев Павел Вадимович ИКБО-16-17
 
 <pre>
 import java.awt.*;
